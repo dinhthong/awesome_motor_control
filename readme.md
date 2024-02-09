@@ -20,6 +20,14 @@ useful for studying pmsm motor equations
 
 7. https://jp.mathworks.com/matlabcentral/fileexchange/47089-vector_control_svpwm_encoderless-mdl?s_tid=prof_contriblnk
 Kind of weird feeling
+
+## Six-step/Trapezoidal Control
+1. https://www.youtube.com/watch?v=8Cl7p6_7xbk&ab_channel=RanitSengupta
+With download link
+2. https://www.youtube.com/watch?v=fnMREAb-sao&ab_channel=RanitSengupta
+
+
+
 ## Unorganized
 Matlab simulation resources
 
