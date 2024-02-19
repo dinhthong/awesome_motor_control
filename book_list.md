@@ -1,5 +1,8 @@
 # English
-
+1. Power Electronics and Motor Drives: Advances and Trends - Bimal K. Bose
+2. Modern Power Electronics And Ac Drives [Paperback] [Jan 01, 2015] Bimal K. Bose
+3. Google: `Ebooks Power Electric and Motor Drive download pdf`
+4. Electric Motor Drives Modeling Analysis and Control - R.Krishnan
 # Japanese
 - They have more materials about Motor Control than in English.
 1. "高トルク&高速応答! センサレス・モータ制御技術 (パワー・エレクトロニクス・シリーズ) 単行本 – 2017/6/7
